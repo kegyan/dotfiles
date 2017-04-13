@@ -33,7 +33,7 @@ trying to remember what exactly you did.
 
 ```bash
 $ cd ~
-$ git clone https://github.com/cs2043-sp16/simple-dotfiles.git
+$ https://github.com/kegyan/dotfiles.git
 $ cd simple-dotfiles/
 ```
 
